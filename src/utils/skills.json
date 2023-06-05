@@ -1,0 +1,4352 @@
+[
+    {
+        "name": "A-0 System",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "A.NET",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "A+",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ABAP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ABC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ABC ALGOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ACC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Accent",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ace DASL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Action!",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ActionScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Actor",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ada",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Adenine",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AdvPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Agda",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Agilent VEE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Agora",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AIMMS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Aldor",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Alef",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ALF",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ALGOL 58",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ALGOL 60",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ALGOL 68",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ALGOL W",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Alice",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Alma-0",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AmbientTalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Amiga E",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AMOS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AMPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Analitik",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AngelScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Apache Pig latin",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Apex",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "APL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "App Inventor for Android's visual block language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AppleScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "APT",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Arc",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ARexx",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Argus",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Assembly language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AutoIt",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AutoLISP / Visual LISP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Averest",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "AWK",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Axum",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "B",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "B",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Babbage",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ballerina",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Bash",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "BASIC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Batch file",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "bc",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "BCPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "BeanShell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Bertrand",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "BETA",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "BLISS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Blockly",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "BlooP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Boo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Boomerang",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Bosque",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Bucket",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C – ISO/IEC 9899",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C Shell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C--",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C*",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C/AL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C#",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "C++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Caché ObjectScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Caml",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cayenne",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CDuce",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cecil",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CEEMAC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CESIL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Céu",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ceylon",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CFEngine",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cg",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ch",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Chapel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Charm",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CHILL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CHIP-8",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ChucK",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cilk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Claire",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Clarion",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Clean",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Clipper",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CLIPS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CLIST",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Clojure",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CLU",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CMS EXEC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CMS-2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "COBOL – ISO/IEC 1989",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CobolScript – COBOL Scripting language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cobra",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CoffeeScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ColdFusion",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "COMAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "COMIT",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Common Intermediate Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Common Lisp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "COMPASS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Component Pascal",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "COMTRAN",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Constraint Handling Rules",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Control Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cool",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Coq",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Coral 66",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CorVision",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "COWSEL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cryptol",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Crystal",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Csound",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cuneiform",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Curl",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Curry",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cybil",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cyclone",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cypher Query Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Cython",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "D",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Dart",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Darwin",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DataFlex",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Datalog",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DATATRIEVE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DAX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "dBase",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "dc",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DCL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Delphi",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DIBOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DinkC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Dog",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Draco",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DRAKON",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Dylan",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "DYNAMO",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "E",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "E",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ease",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Easy PL/I",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "EASYTRIEVE PLUS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "eC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ECMAScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Edinburgh IMP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "EGL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Eiffel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ELAN",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Elixir",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Elm",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Emacs Lisp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Emerald",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Epigram",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "EPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "EPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Erlang",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "es",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Escher",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ESPOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Esterel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Etoys",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Euclid",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Euler",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Euphoria",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "EusLisp Robot Programming Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "EXEC 2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Executable UML",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ezhil",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "F",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "F-Script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "F*",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "F#",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Factor",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Fantom",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FAUST",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FFP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "fish",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Fjölnir",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FlagShip",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Flavors",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Flex",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Flix",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FlooP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FLOW-MATIC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FOCAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FOCUS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FOIL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FORMAC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Forth",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Fortran – ISO/IEC 1539",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Fortress",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FoxBase/FoxPro",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "FP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Franz Lisp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Futhark",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "G-code",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Game Maker Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GameMonkey Script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GAMS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GAP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GDL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GDScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Genie",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GEORGE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GLSL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GNU E",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GNU Guile",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Go",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Go!",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GOAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Gödel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Golo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GOM",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Google Apps Script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Gosu",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GOTRAN",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GPSS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GraphTalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "GRASS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Grasshopper",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Groovy",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hack",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "HAGGIS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "HAL/S",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Halide",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hamilton C shell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Harbour",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hartmann pipelines",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Haskell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Haxe",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hermes",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "High Level Assembly",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "HLSL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hollywood",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "HolyC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hop",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hope",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hopscotch",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Hume",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "HyperTalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "IBM Basic assembly language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "IBM HAScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "IBM Informix-4GL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "IBM RPG",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Icon",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "IDL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Idris",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Inform",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Io",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ISLISP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "J",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "J#",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "J++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JADE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Jai",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Janus",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Janus",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JASS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Java",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JavaFX Script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JavaScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JCL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JEAN",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Jess",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Join Java",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JOSS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Joule",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JOVIAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Joy",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JScript .NET",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Julia",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Jython",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "K",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kaleidoscope",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Karel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KEE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KIF",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kixtart",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Klerer-May System",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kodu",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kojo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KornShell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kotlin",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KRC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KRL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KRL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "KRYPTON",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kv",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LabVIEW",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ladder",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Language H",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LANSA",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lasso",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lava",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LC-3",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lean",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Legoscript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lexico",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LIL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LilyPond",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Limbo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Limnor",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LINC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lingo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LINQ",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LIS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LISA",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lisp – ISO/IEC 13816",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lite-C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lithe",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Little b",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LiveCode",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LiveScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LLL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Logo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Logtalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LotusScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LPC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LSE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LSL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lua",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lucid",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lustre",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LYaPAS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lynx",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "M Formula language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "M#",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "M2001",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "M4",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Machine code",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MAD",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MAD/I",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Magik",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Magma",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Máni",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Maple",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MAPPER",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MARK-IV",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mary",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MASM Microsoft Assembly x86",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MATH-MATIC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MATLAB",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Maude system",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Max",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Maxima",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MaxScript internal language 3D Studio Max",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Maya",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MDL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mercury",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mesa",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MHEG-5",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Microcode",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MicroScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Microsoft Power Fx",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MIIS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Milk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MIMIC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mirah",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Miranda",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MIVA Script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ML",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Model 204",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Modelica",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Modula",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Modula-2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Modula-3",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mohol",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MOO",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mortran",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mouse",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MPD",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MSL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MUMPS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "MuPAD",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mutan",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Mystic Programming Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Napier88",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NASM",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Neko",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Nemerle",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NESL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Net.Data",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NetLogo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NetRexx",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NewLISP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NEWP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Newspeak",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NewtonScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Nial",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Nickle",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Nim",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Nix",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Not eXactly C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Not Quite C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NSIS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Nu",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NWScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "NXT-G",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "o:XML",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Oak",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Oberon",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OBJ2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Object Lisp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Object Pascal",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Object REXX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Objective-C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Objective-J",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ObjectLOGO",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Obliq",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OCaml",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "occam",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "occam-π",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Octave",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OmniMark",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Opa",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Opal",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Open Programming Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OpenCL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OpenEdge Advanced Business Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OpenVera",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OPS5",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OptimJ",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Orc",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ORCA/Modula-2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Oriel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Orwell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Oxygene",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Oz",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "P",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "P′′",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "P4",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ParaSail",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PARI/GP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pascal – ISO 7185",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pascal Script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PCASTL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PCF",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PDL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PEARL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PeopleCode",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Perl",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pharo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PHP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pico",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Picolisp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pict",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pike",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PILOT",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pipelines",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pizza",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL-11",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/0",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/B",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/I – ISO 6160",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/M",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/P",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/S",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL/SQL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PL360",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PLANC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Plankalkül",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Planner",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PLEX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PLEXIL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Plus",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "POP-11",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "POP-2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PortablE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PostScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "POV-Ray SDL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PowerBuilder – 4GL GUI application generator from Sybase",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Powerhouse",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PowerShell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pro*C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Processing",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Processing.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Prograph",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Project Verona",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Prolog",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PROMAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Promela",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PROSE modeling language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PROTEL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ProvideX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pure",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Pure Data",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PureScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Python",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Q",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Q#",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Qalb",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "QPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "QtScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "QuakeC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Quantum Computation Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "R",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "R++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Racket",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Raku",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "RAPID",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Rapira",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ratfiv",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ratfor",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "rc",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Reason",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "REBOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Red",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Redcode",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "REFAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "REXX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ROOP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "RPG",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "RPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "RSL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "RTL/2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ruby",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Rust",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "S",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "S-Lang",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "S-PLUS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "S/SL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "S2",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "S3",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SA-C",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SabreTalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SAIL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SAKO",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SAS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SASL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Sather",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Sawzall",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SBL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Scala",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Scheme",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Scilab",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Scratch",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Script.NET",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Sed",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Seed7",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Self",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SenseTalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SequenceL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Serpent",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SETL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Short Code",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SIGNAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SiMPLE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SIMPOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SIMSCRIPT",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Simula",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Simulink",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SISAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SLIP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SMALL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Smalltalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SML",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Snap!",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SNOBOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Snowball",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Solidity",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SOPHAEROS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Source",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SP/k",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SPARK",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Speakeasy",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Speedcode",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SPIN",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SPS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SQL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SQR",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Squeak",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Squirrel",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SR",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Starlogo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Stata",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Stateflow",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Strand",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Strongtalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Subtext",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SuperCollider",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Superplan",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SuperTalk",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Swift",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Swift",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SYMPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "SystemVerilog",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "T",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "T-SQL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TACL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TACPOL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TADS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TAL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Tcl",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Tea",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TECO",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TELCOMP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TeX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TEX",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TIE",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TMG",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Toi",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Tom",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Topspeed",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TPU",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Trac",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Transcript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TTCN",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TTM",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Turing",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TUTOR",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TXL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Tynker",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "TypeScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ubercode",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "UCSD Pascal",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Umple",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Unicon",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Uniface",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "UNITY",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "UnrealScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Vala",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Verilog",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "VHDL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Vim script",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Viper",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual DataFlex",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual DialogScript",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual FoxPro",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual J++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual LISP",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual Objects",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Visual Prolog",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "WATFIV",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "WebAssembly",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "WebDNA",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Whiley",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Winbatch",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Wolfram Language",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Wyvern",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "X++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "X10",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "xBase++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XBL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XC",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "xHarbour",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Xod",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Xojo",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XOTcl",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XPL0",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XQuery",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XSB",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XSharp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "XSLT",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Xtend",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Yoix",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Yorick",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "YQL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Z notation",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Z shell",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Z++",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Zebra",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Zeno",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ZetaLisp",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Zig",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ZOPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ZPL",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Angular",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Svelte",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "React",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ember.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "jQuery",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Backbone.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Vue.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Semantic UI",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Foundation",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Preact",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Lit",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Alpine",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Bootstrap",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Stimulus",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "ASP .NET Core",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Node.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Knockout.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Polymer.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Meteor",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Ruby on Rails",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "A-Frame",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Away3D",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Babylon.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Clara.io",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "CopperLicht",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "JanusWeb",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Kubity",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "LayaAir",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "OSG.JS",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "PlayCanvas",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Sketchfab",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Three.js",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Unity",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Verge3D",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    },
+    {
+        "name": "Go Lang",
+        "status": "Active",
+        "createdDate": "2023-03-07 05:33:57",
+        "updatedDate": "2023-03-07 05:33:57"
+    }
+]
